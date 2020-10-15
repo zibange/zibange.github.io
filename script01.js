@@ -2,8 +2,8 @@
 window.onload = wecomePage;
 function wecomePage() {
     var ans = prompt("这是一个私人网站，请输入密码：");
-    if (ans == "123456") {
-        alert("欢迎您进入此网站！");
+    if (ans == "123") {
+        alert("欢迎您进入此网站");
         window.location="easyForm.html"
     }
     else {
