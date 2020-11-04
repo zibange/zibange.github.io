@@ -1,0 +1,18 @@
+@charset "utf-8";
+body{
+	background-color:rgba(213,213,213,0.82);
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
+ .xiaoacao_footer{
+	height: 30px;
+	line-height: 35px;
+	position:fixed;
+	bottom: 0;
+	width: 100%;
+	text-align: center;
+	background-color: darkslategrey;
+	color: #fff;
+	font-family: Arial;
+	font-size: 14px;
+	letter-spacing: 1px;
+}	

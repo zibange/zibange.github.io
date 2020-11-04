@@ -66,8 +66,8 @@ textarea{
     height:100px;
 }
 #Self-Top {
-    height: 100px;
-   
+	height: 100px;
+	text-align: center;
 }
 #Self-Nav-Top{
 	width: 900px;
@@ -75,6 +75,7 @@ textarea{
 	background-image: url( "img/img2/Self-Nav-Top.png");
 }
 #Self-TopImg{
+
 	width: 900px;
 	height: 494px;
 	background-image: url("img/img2/Self-TopImg-Back.png");
